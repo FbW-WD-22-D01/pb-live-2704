@@ -3,11 +3,11 @@
 - Variablen definieren
 - Asugabe in der Konsole `console.log`
 - Überblick verschiedenen Datentypen:
-    - String
-    - Number
-    - Boolean
-    - Undefined
-    - Null
-    - Object
-    - Array
+    - `String`
+    - `Number`
+    - `Boolean`
+    - `Undefined`
+    - `Null`
+    - `Object`
+    - `Array`
 - Abfrage des Datentyps mit `typeof`
