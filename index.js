@@ -44,7 +44,7 @@ console.log(nulli);
 // Objekt
 let userData ={
     user: "Christoph",
-    lastname: "Muck",
+    lastname: "Wer",
 };
 console.log(userData);
 
