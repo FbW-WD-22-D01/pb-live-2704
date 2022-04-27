@@ -1,6 +1,6 @@
 # Live Coding Programming Basics (PB)
 
-- Variablen definieren
+- Variablen erstellen mit `let` 
 - Asugabe in der Konsole `console.log`
 - Überblick verschiedenen Datentypen:
     - `String`
